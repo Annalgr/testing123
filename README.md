@@ -1,3 +1,7 @@
-# testing123
-Testing github repository. <b/>
-Adding a new line in this file.
+# Testing123
+Testing github repository. <br/>
+Adding a new line in this file. <br/>
+
+
+## First Paragraph
+In this paragraph I write something as an introduction of the broad concept.
